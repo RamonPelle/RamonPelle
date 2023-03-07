@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamonPelle
 - 👀 I’m interested in back-end development
-- 🌱 I’m currently studying C | Java
+- 🌱 I’m currently studying Java
 - 📫 You can reach me at https://www.linkedin.com/in/ramon-pelle-71a86b129
 
 <!---
